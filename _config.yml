@@ -1,0 +1,8 @@
+title: Ckmessi.GitHub.com
+description: Lionel's home page
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-midnight
+
+gems:
+  - jekyll-mentions
