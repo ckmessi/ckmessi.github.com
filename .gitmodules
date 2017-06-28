@@ -1,0 +1,3 @@
+[submodule "blog-hexo"]
+	path = blog-hexo
+	url = https://github.com/ckmessi/blog-hexo-public.git
